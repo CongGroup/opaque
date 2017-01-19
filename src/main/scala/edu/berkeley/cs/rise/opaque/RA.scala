@@ -247,8 +247,8 @@ object RA {
     }.collect
 
     //println("Sent attestation results; attestation DONE")
+    }
 
     // attestation done
-  }
 
 }
